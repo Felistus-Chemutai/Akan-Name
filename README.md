@@ -65,6 +65,8 @@ True value is output. Output example: **You were born on Sunday and Your akan na
 ## Known Bugs
 * Some output are not as accurate as expected..
 
+## GH link: https://felistus-chemutai.github.io/Akan-name/.
+
 ## Contact Information 
 
 If you have any question or contributions, feel free to contact me @ chemunicole@gmail.com
