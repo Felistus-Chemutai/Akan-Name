@@ -13,7 +13,7 @@ let gender = parseInt(document.getElementById('gender').value);
 let dayWeek = new Date(month + "/" + date+ "/" + day);
 var d = dayWaek.getDay();
 var name = "";
-if (gender === "male") {
+if (option === "optionn 1") {
  name = male[d];
 }
 else {
