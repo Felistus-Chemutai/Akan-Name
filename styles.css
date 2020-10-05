@@ -1,11 +1,27 @@
 body{
-    background-image:url("image.jpg");
-	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
-    margin-top: 80px;
-    padding: 30px;
-    text-decoration-color:black;
-}
+	background-image: url("./Images/f35.jpg");
 
-h3{
-	text-align:left;
+	}
+.button{
+    text-align: center;
+    color: brown;
+    font-size: xx-large;
+}
+h2{
+	text-align: center;
+}
+.container {
+background-color: none;
+font-size: medium;
+}
+.form > button:hover{
+background-color: rgba(25, 25, 255, .9);
+}
+#footer{
+	padding: 70px;
+	width: 290px;
+	text-align: center;
+	margin: auto;
+	height: 0px;
+	background-color: burlywood;
 }
