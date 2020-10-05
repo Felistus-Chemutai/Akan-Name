@@ -6,7 +6,7 @@ let akanFemaleNames =['adwoa','abenaa','akua','yaa','afua','ama','akosua'];
 // user inputs
 let date =parseInt(document.getElementById('enter date').value);
 let month = parseInt(document.getElementById('month').value);
-let year = parseInt(document.getElementById('year').value));
+let year = parseInt(document.getElementById('year').value);
 let gender = parseInt(document.getElementById('gender').value));
 // end of user inputs
 
