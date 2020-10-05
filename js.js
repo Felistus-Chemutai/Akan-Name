@@ -4,7 +4,7 @@ let akanMaleNames =['kwadwo','kwabena','kwaku','yaw','kofi','kwame','kwasi'];
 let akanFemaleNames =['adwoa','abenaa','akua','yaa','afua','ama','akosua'];
 // end of the array 
 // user inputs
-let date =parseInt(prompt(document.getElementById('enter date').value));
+let date =parseInt(document.getElementById('enter date').value));
 let month = parseInt(prompt(document.getElementById('month').value));
 let year = parseInt(prompt(document.getElementById('year').value));
 let gender = parseInt(prompt(document.getElementById('gender').value));
