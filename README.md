@@ -30,7 +30,7 @@ Enter century of birth eg 20 for 2017,
      Input Example 20
      Output example 20
 
-* Enter year of Birth eg 19 for 2019
+* Enter year of Birth eg 16 for 2016
      Input Example 19
      Output Example 19
 
