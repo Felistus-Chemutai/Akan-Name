@@ -1,0 +1,11 @@
+body{
+    background-image:url("image.jpg");
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+    margin-top: 80px;
+    padding: 30px;
+    text-decoration-color: white;
+}
+
+h3{
+	text-align:left;
+}
